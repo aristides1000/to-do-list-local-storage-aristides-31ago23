@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Uneweb-blue)
 
-# Project Name
+# To do list with localStorage javascript Project
 
 > One paragraph statement about the project.
 
