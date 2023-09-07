@@ -47,7 +47,7 @@ body {
 
 #new-task input:focus {
   outline: none;
-  background-color: var(--main-color);
+  border-color: var(--main-color);
 }
 
 #new-task button {
